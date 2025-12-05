@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Dvaid Adams</h1>
+<h1 align="left">Hi 👋, I'm David Adams</h1>
 
 ### A passionate software developer  
 <br>
