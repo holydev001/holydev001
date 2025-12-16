@@ -26,21 +26,21 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=diablo247&theme=dark&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=holydev001&theme=dark&hide_border=true" 
     height="165"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=diablo247&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=holydev001&show_icons=true&theme=dark&hide_border=true"
     height="165"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diablo247&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=holydev001&layout=compact&theme=dark&hide_border=true"
     height="165"
   />
 </p>
@@ -50,7 +50,7 @@
 ## 🏆 GitHub Trophies  
 <p align="left">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=diablo247&theme=onestar&no-frame=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=holydev001&theme=onestar&no-frame=true&margin-w=10"
   />
 </p>
 
@@ -59,7 +59,7 @@
 ## 📈 Contribution Activity  
 <p align="left">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=diablo247&theme=react-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=holydev001&theme=react-dark&hide_border=true"
   />
 </p>
 
@@ -68,17 +68,17 @@
 ## 📌 Pinned Repositories  
 <p align="left">
   <a href="https://github.com/diablo247/diablo247">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diablo247&repo=diablo247&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=holydev001&repo=holydev001&theme=dark&hide_border=true"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/diablo247/YOUR_SECOND_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diablo247&repo=YOUR_SECOND_REPO&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=holydev001&repo=YOUR_SECOND_REPO&theme=dark&hide_border=true"/>
   </a>
 </p>
 
 ---
 
 ### 🔗 Follow me  
-**@diablo247**
+**@holydev001**
