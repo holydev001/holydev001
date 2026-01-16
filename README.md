@@ -16,7 +16,7 @@
 ## 🚀 Connect With Me  
 <p align="left">
   <a href="https://x.com/holydev0001"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/david-adams-b0228835b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -42,15 +42,6 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=holydev001&layout=compact&theme=dark&hide_border=true"
     height="165"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="left">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=holydev001&theme=onestar&no-frame=true&margin-w=10"
   />
 </p>
 
