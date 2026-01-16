@@ -3,8 +3,8 @@
 ### A passionate software developer  
 <br/>
 
-- 🌱 I'm currently learning **python**
-- 💬 Ask me about **React, React Native, Next.js, TypeScript**
+- 🌱 I'm currently learning **solidity**
+- 💬 Ask me about **React, React Native, Next.js, TypeScript, Node.js, python**
 - 📁 My portfolio is launching soon
 - 📫 Reach me at: **davebenaaa@gmail.com**
 
