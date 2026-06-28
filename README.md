@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **solidity**
 - 💬 Ask me about **React, React Native, Next.js, TypeScript, Node.js, python**
-- 📁 My portfolio is launching soon
+- 📁 portfolio **holydev.cv**
 - 📫 Reach me at: **davebenaaa@gmail.com**
 
 
